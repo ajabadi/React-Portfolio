@@ -49,4 +49,4 @@ This portfolio starts with Create React App, incorporating a structure that incl
 - Enhancements: Incorporates animations and utilizes React component libraries for an engaging user experience.
 
 ## Deployment
-
+My porfolio application [link](https://joseabadi.netlify.app/)
