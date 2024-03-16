@@ -18,7 +18,7 @@ const projects = [
     title: "Tech Blog",
     image: techblogImage,
     link: "https://ajabadi.github.io/MVC-Tech-Blog/",
-    description: "A web application to track your expenses efficiently, allowing you to monitor your financial activity over time."
+    description: " The Tech Blog is a developer-focused CMS blog platform, built using the MVC pattern and deployed on Heroku. It allows users to sign up, sign in, create, edit, and comment on technical posts. The site features automatic logout, session management, and is developed with technologies such as Handlebars.js, Sequelize, and express-session. Users can easily manage their posts and interact with others' content through a user-friendly interface."
   },
   {
     title: "Work Day Scheduler",
