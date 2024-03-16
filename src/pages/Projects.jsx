@@ -24,7 +24,7 @@ const projects = [
     title: "Work Day Scheduler",
     image: workschedulerImage,
     link: "https://ajabadi.github.io/Work-Day-Scheduler/",
-    description: "An interactive dashboard to monitor stock market trends and make informed investment decisions."
+    description: "The Work Day Scheduler is a calendar app, running from 9 am to 5 pm, where users can add and save events using jQuery. The app highlights time blocks in different colors to indicate past, present, or future hours and saves event data to local storage. It's browser-based, with an option to use Day.js or another library for date functionality. Developers should clone the starter code into their own repository before starting."
   },
   {
     title: "Note Taker",
